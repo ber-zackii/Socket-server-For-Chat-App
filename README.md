@@ -13,8 +13,3 @@ This is a real-time chat server built with Node.js, Express, and Socket.io. It h
 - [Node.js](https://nodejs.org/) (v14 or later)
 - [npm](https://www.npmjs.com/) (Node package manager)
 
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
